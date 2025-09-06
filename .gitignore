@@ -17,7 +17,7 @@ Thumbs.db
 .env
 
 # Virtual Environment
-/venv/
+yoloBackend/venv/
 
 # Python cache
 __pycache__/
